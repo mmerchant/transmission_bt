@@ -1,0 +1,7 @@
+# Transmission BT Helper
+
+transmission_bt.sh - should be placed in "/usr/local/bin/"
+monitrc - should be placed in "/usr/local/etc/monit/"
+monit_transmission_bt - should be placed in "/usr/local/etc/monit.d/"
+
+The transmission_bt.sh script is a quick and dirty start/stop/realoder for Transmission BT when installed from homebrew
