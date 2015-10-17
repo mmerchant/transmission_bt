@@ -1,4 +1,4 @@
-# Transmission BT Helper
+##Transmission BT Helper
 
 transmission_bt.sh - should be placed in "/usr/local/bin/"
 monitrc - should be placed in "/usr/local/etc/monit/"
