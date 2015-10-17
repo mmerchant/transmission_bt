@@ -1,0 +1,3 @@
+check process transmission with pidfile /usr/local/var/run/transmission.pid
+start program = "/usr/local/bin/transmission_bt.sh -b" with timeout 60 seconds
+stop program  = "/usr/local/bin/transmission_bt.sh -e"
